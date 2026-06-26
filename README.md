@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Jiaqi Wang.
+
+I'm an independent software developer focusing on AI tools and micro-SaaS.
+
+Currently building productivity tools for global users.
+
+Tech Stack: Node.js, Java, AI Agents.
